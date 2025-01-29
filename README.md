@@ -1,3 +1,3 @@
 # ml-project-premium-prediction
-ML Course health insurance prediction project
+Health insurance prediction project created by Ishwar Zore
 
